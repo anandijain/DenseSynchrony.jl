@@ -1,0 +1,3 @@
+[deps]
+DenseSynchrony = "0891f7b2-604c-455f-b52f-8e878c25c593"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
