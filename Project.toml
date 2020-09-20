@@ -3,6 +3,11 @@ uuid = "0891f7b2-604c-455f-b52f-8e878c25c593"
 authors = ["anandijain <anandj@uchicago.edu> and contributors"]
 version = "0.1.0"
 
+[deps]
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
+LightGraphs = "093fc24a-ae57-5d10-9952-331d41423f4d"
+ModelingToolkit = "961ee093-0014-501f-94e3-6117800e7a78"
+
 [compat]
 julia = "1"
 

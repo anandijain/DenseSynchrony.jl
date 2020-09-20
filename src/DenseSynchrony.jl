@@ -1,5 +1,5 @@
 module DenseSynchrony
 
-# Write your package code here.
+    using LightGraphs, DifferentialEquations
 
 end
